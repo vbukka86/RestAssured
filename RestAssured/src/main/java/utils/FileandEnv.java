@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Properties;
 
-public class FileAndEnvironment {
+public class FileandEnv {
 	
 	public static Map<String, String> fileandenv = new HashMap<String, String>();
 	public static Properties  propMain = new Properties();

@@ -21,5 +21,13 @@ public class HeaderConfigs {
 		defaultHeader.put("Tenet_Token", "asdwgrergdfgghgasdasfgr");
 		return defaultHeader;
 	}
+	
+	/* Added for Testing "HeaderConfigs" Class file -  - testing purpose only
+	 * public static void main(String[] args) { HeaderConfigs hConfig = new
+	 * HeaderConfigs();
+	 * 
+	 * System.out.println(hConfig.defaultHeaders());
+	 * System.out.println(hConfig.defaultHeaders_withTokens()); }
+	 */
 
 }
